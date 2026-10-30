@@ -1,0 +1,10 @@
+{
+  "status": "not_run",
+  "checked_at": null,
+  "source": "Roma Mobilita official RSS",
+  "url": "https://romamobilita.it/feed/",
+  "candidates": 0,
+  "articles_examined": 0,
+  "error": null,
+  "note": "Scheduled discovery runs after you enable GitHub Pages deployment. No claim of live activity."
+}
